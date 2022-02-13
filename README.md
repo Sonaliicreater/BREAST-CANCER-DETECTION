@@ -6,8 +6,6 @@ Breast Histopathology Images, a datset available on Kaggle has been used for thi
 
 Link: https://www.kaggle.com/paultimothymooney/breast-histopathology-images
 
-![Capture](https://user-images.githubusercontent.com/71033672/153760009-e6130285-77c2-41bb-9225-009522bcced1.JPG)
-
 ![Capture1](https://user-images.githubusercontent.com/71033672/153760048-9915e5a7-544d-4e47-a230-bf7b3aef13a4.JPG)
 
 # MODEL
